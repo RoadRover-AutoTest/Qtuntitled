@@ -7,5 +7,9 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
+    printf("Hellogit!\n");
+
+    printf("HelloWorld!\n");
+
     return a.exec();
 }
